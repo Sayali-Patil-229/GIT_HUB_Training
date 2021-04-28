@@ -4,3 +4,9 @@ Video Calls
 Emojji
 GIF
 Text Keyboard
+
+
+Audio Calls
+Profile
+Privacy 
+Security
